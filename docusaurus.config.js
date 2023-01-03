@@ -142,4 +142,5 @@ const config = {
 module.exports = {
   url: 'https://cloudacode.netlify.app',
   baseUrl: '/',
+  title: 'Cloudacode',
 };
