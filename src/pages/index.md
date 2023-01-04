@@ -33,8 +33,8 @@ Most tutorials will step you through the process of building various application
 ## Tutorials
 
 <LinkCardGrid>
-  <LinkCard topIcon label="Kubernetes 101" description="Navigate kubernetes world" href="https://cloudacode.com/hello-kubernetes" />
-  <LinkCard topIcon label="Explore Cloud tutorials" description="Follow step-by-step instructions to get cloud app up and running for any use case." href="https://cloudacode.com/tutorials" />
+  <LinkCard topIcon label="Kubernetes 101" description="Navigate kubernetes world" href="https://cloudacode.github.io/hello-kubernetes" />
+  <LinkCard topIcon label="Explore Cloud tutorials" description="Follow step-by-step instructions to get cloud app up and running for any use case." href="https://cloudacode.github.io/tutorials" />
 </LinkCardGrid>
 
 <!--
